@@ -1,0 +1,22 @@
+Indicator,APMS_Rate,Gender
+no treatment,90.44271530835998,Men
+medication only,7.045227595489842,Men
+counselling or therapy only,1.0590731281806058,Men
+both medication and counselling,1.4529839679697354,Men
+any medication,8.498211563459577,Men
+any counselling or therapy,2.5120570961503415,Men
+any treatment,9.557284691640021,Men
+no treatment,83.53105364786141,Women
+medication only,13.038191464880313,Women
+counselling or therapy only,1.9388276530077513,Women
+both medication and counselling,1.4919272342505117,Women
+any medication,14.530118699130824,Women
+any counselling or therapy,3.4312031388295403,Women
+any treatment,16.468946352138587,Women
+no treatment,86.90747847116018,All adults
+medication only,10.110560893871705,All adults
+counselling or therapy only,1.5090576263566373,All adults
+both medication and counselling,1.4729030086113672,All adults
+any medication,11.583463902483071,All adults
+any counselling or therapy,2.982159905169732,All adults
+any treatment,13.092521528839825,All adults
