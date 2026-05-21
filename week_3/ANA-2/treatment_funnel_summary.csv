@@ -1,0 +1,4 @@
+Stage,Count,Previous_Count,Stage_Dropoff,Stage_Dropoff_Rate
+Accessing Services,29554995.0,,,
+Finished Treatment,18575590.0,29554995.0,10979405.0,37.149067357311345
+6-Month Follow-up,5275.0,18575590.0,18570315.0,99.97160251706674
