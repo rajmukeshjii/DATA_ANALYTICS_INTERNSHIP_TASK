@@ -1,0 +1,50 @@
+BNF_CHEMICAL_SUBSTANCE,Drug_Category,Total_Items,Total_Quantity,Total_Cost
+Sertraline hydrochloride,Antidepressant,2224756,73537384.0,3344127.60698
+Amitriptyline hydrochloride,Antidepressant,1418271,70658240.0,1281618.15523
+Mirtazapine,Antidepressant,1188006,28913204.0,1233268.90855
+Citalopram hydrobromide,Antidepressant,1072950,35334654.0,727107.68799
+Fluoxetine hydrochloride,Antidepressant,645196,29041935.0,2050331.24875
+Venlafaxine,Antidepressant,551358,19122999.0,5074119.3921
+Duloxetine hydrochloride,Antidepressant,459622,15527025.0,1380260.69002
+Zopiclone,Anxiolytic,332047,5629620.0,154611.13636
+Diazepam,Anxiolytic,305625,7977282.0,538626.03633
+Melatonin,Anxiolytic,262547,14824543.0,3476490.85996
+Escitalopram,Antidepressant,192286,6133592.0,220962.02681
+Trazodone hydrochloride,Antidepressant,119232,5391169.0,217210.5869
+Paroxetine hydrochloride,Antidepressant,103712,3649921.0,137900.39531
+Nortriptyline,Antidepressant,96413,5907358.0,286166.71644
+Lorazepam,Anxiolytic,83984,2462237.0,360105.38365
+Zolpidem tartrate,Anxiolytic,45050,877854.0,26245.27335
+Vortioxetine,Antidepressant,40746,1006911.0,947076.29704
+Daridorexant,Anxiolytic,27891,799980.0,1063016.50744
+Temazepam,Anxiolytic,24310,618461.0,498817.05139
+Buspirone hydrochloride,Anxiolytic,21876,1207074.0,81200.40783
+Dosulepin hydrochloride,Antidepressant,21249,1085297.0,206295.43498
+Nitrazepam,Anxiolytic,18880,533029.0,195711.7425
+Clomipramine hydrochloride,Antidepressant,18734,1090086.0,203927.8058
+Flupentixol hydrochloride,Antidepressant,10135,427325.0,27858.1509
+Lofepramine hydrochloride,Antidepressant,8980,493865.0,219699.20501
+Imipramine hydrochloride,Antidepressant,7689,589284.0,61129.77259
+Citalopram hydrochloride,Antidepressant,5314,96615.0,47740.49942
+Oxazepam,Anxiolytic,3159,130419.0,33450.08417
+Agomelatine,Antidepressant,2578,97334.0,63437.19453
+Fluvoxamine maleate,Antidepressant,1969,94014.0,37773.3219
+Reboxetine,Antidepressant,1745,82850.0,24865.38919
+Chlordiazepoxide hydrochloride,Anxiolytic,1363,51743.0,16707.60413
+Doxepin,Antidepressant,1114,53156.0,17315.77345
+Trimipramine maleate,Antidepressant,1031,49529.0,144216.72941
+Chloral hydrate,Anxiolytic,804,244637.0,397653.1908
+Loprazolam mesilate,Anxiolytic,743,22759.0,18310.0662
+Lormetazepam,Anxiolytic,657,20927.0,4126.67777
+Moclobemide,Antidepressant,639,34849.0,12118.439629999999
+Phenelzine sulfate,Antidepressant,338,34398.0,80721.64657
+Tranylcypromine sulfate,Antidepressant,261,20216.0,348666.61967
+Clomethiazole,Anxiolytic,253,9849.0,5383.190329999999
+Sodium oxybate,Anxiolytic,110,50040.0,99681.0966
+Isocarboxazid,Antidepressant,96,7656.0,41123.22122
+Mianserin hydrochloride,Antidepressant,85,4480.0,5303.24464
+Tryptophan,Antidepressant,62,8480.0,4370.95126
+Eszopiclone,Anxiolytic,34,808.0,104.60576
+Oxitriptan,Antidepressant,9,2042.0,336.11721
+Clomethiazole edisilate,Anxiolytic,8,3000.0,315.0992
+Alprazolam,Anxiolytic,1,60.0,5.79881
